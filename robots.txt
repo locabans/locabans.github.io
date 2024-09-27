@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://locabans.github.io/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/app/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/assets/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/css/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/data/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/includes/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/item/sitemap.locabans.gz
+Sitemap: https://locabans.github.io/src/sitemap.locabans.gz
